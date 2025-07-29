@@ -1,5 +1,5 @@
 def say_hello():
-    print("Hello from GitHub Actions!")
+    print("don't do it !")
 
 if __name__ == "__main__":
     say_hello()
